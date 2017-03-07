@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "pokemon": [
+    {
+      "id": 31293960,
+      "data": "[]",
+      "expiration_time": 1469341728,
+      "pokemonId": 41,
+      "latitude": 37.584847310525,
+      "longitude": -122.39907386491,
+      "uid": "808f7655a93:41",
+      "is_alive": true
+    },
+    {
+      "id": 31419553,
+      "data": "[]",
+      "expiration_time": 1469341801,
+      "pokemonId": 16,
+      "latitude": 37.585614097002,
+      "longitude": -122.39340929515,
+      "uid": "808f7653c9d:16",
+      "is_alive": true
+    },
+    {
+      "id": 31889627,
+      "data": "[]",
+      "expiration_time": 1469342371,
+      "pokemonId": 13,
+      "latitude": 37.590249423425,
+      "longitude": -122.39606460019,
+      "uid": "808f77ab7cb:13",
+      "is_alive": true
+    },
+    {
+      "id": 30496591,
+      "data": "[]",
+      "expiration_time": 1469341635,
+      "pokemonId": 13,
+      "latitude": 37.593364258837,
+      "longitude": -122.38907215288,
+      "uid": "808f77b2643:13",
+      "is_alive": true
+    },
+    {
+      "id": 31196488,
+      "data": "[]",
+      "expiration_time": 1469341845,
+      "pokemonId": 13,
+      "latitude": 37.594775782535,
+      "longitude": -122.39615310921,
+      "uid": "808f77a9317:13",
+      "is_alive": true
+    },
+    {
+      "id": 31049996,
+      "data": "[]",
+      "expiration_time": 1469341858,
+      "pokemonId": 21,
+      "latitude": 37.578175623185,
+      "longitude": -122.39818879598,
+      "uid": "808f76577e1:41",
+      "is_alive": true
+    },
+    {
+      "id": 31782840,
+      "data": "[]",
+      "expiration_time": 1469342163,
+      "pokemonId": 16,
+      "latitude": 37.578114508495,
+      "longitude": -122.39765775106,
+      "uid": "808f76577e1:41",
+      "is_alive": true
+    },
+    {
+      "id": 30554652,
+      "data": "[]",
+      "expiration_time": 1469341617,
+      "pokemonId": 21,
+      "latitude": 37.588857687859,
+      "longitude": -122.38623963702,
+      "uid": "808f764c593:21",
+      "is_alive": true
+    }
+  ]
+}

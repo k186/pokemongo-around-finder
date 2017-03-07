@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "id": 3977,
+      "name": "Wigglytuff",
+      "coords": "41.8328111732,-87.6917401181",
+      "until": "2016-07-29T07:30:37.000Z",
+      "icon": "http://pokesnipers.com/assets/icons/40-ce60534e126fec0832f6a67620539701b41e64a66d75b39fad0b844af33ce74d.png"
+    },
+    {
+      "id": 3974,
+      "name": "Snorlax",
+      "coords": "41.8358583936,-87.727920217",
+      "until": "2016-07-29T07:30:54.000Z",
+      "icon": "http://pokesnipers.com/assets/icons/143-ded91dd9d99f4099c5b665844100e3e1ea61384ff6456fbfb55b084b44a44c03.png"
+    },
+    {
+      "id": 3979,
+      "name": "Ninetales",
+      "coords": "37.7904483483,-122.526622609",
+      "until": "2016-07-29T07:33:59.000Z",
+      "icon": "http://pokesnipers.com/assets/icons/38-6f77435e09b237f9b55d32bade4aad8c1b21f56e55fc73ef738043ab590fcdba.png"
+    },
+    {
+      "id": 3980,
+      "name": "Wigglytuff",
+      "coords": "-33.9166890979,151.002428731",
+      "until": "2016-07-29T07:36:03.000Z",
+      "icon": "http://pokesnipers.com/assets/icons/40-ce60534e126fec0832f6a67620539701b41e64a66d75b39fad0b844af33ce74d.png"
+    },
+    {
+      "id": 3981,
+      "name": "Wigglytuff",
+      "coords": "48.8851160685,2.38039550844",
+      "until": "2016-07-29T07:41:01.000Z",
+      "icon": "http://pokesnipers.com/assets/icons/40-ce60534e126fec0832f6a67620539701b41e64a66d75b39fad0b844af33ce74d.png"
+    }
+  ]
+}
